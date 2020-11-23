@@ -4,7 +4,7 @@ public class Calculation {
         Calculation objCalc=new Calculation();
         double sum=objCalc.Sum(2.00,3.00);
 
-        System.out.println("the sum is: "+sum);
+//        System.out.println("the sum is: "+sum);
 
     }
 
